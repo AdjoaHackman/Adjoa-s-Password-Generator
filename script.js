@@ -82,16 +82,6 @@ function generatePassword() {
 
 }
 
-  
-
-
-
-
-
-
-
-
-
   // if (passwordUppercase) {
   //   for (var i=0; i<UppercaseLetters.length;i++) {
   //     possiblecharacters.push(UppercaseLetters[i])
