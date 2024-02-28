@@ -8,7 +8,7 @@ So I went to tutoring and the tutor made me pseudocode everything out - line by 
 
 I honestly can't wait until I can write code like my instructor - he does it seamlessly. 
 
-Please find my deployed application here. <a href= "https://adjoahackman.github.io/Adjoa-s-Password-Generator/" target="_blank" alt= "link to deployed application">
+Please find my deployed application here. <a href= "https://adjoahackman.github.io/Adjoa-s-Password-Generator/" target="_blank" alt= "link to deployed application">link</a>
 
 <img src="/Screenshot 2024-02-28 at 12.34.10 AM.png">
 
